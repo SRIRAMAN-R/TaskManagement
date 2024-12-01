@@ -1,10 +1,11 @@
 #Task Management API
+
 This is a simple API for managing tasks. It allows users to create, read, update, and delete tasks. Additionally, users can filter tasks based on status and due date, and export tasks to a CSV file.
 
 
 Prerequisites
-Before running the project, ensure that you have the following installed:
 
+Before running the project, ensure that you have the following installed:
 .NET SDK 9.0 or higher
 Visual Studio or Visual Studio Code
 Postman or any other API testing tool (Optional for testing the APIs)
